@@ -1,0 +1,9 @@
+{
+	"name": "tjm-data-factory-v2",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c6ba7c29-79e0-4f0e-a790-3239bb8e9092",
+		"tenantId": "f2cbf4c2-6a41-434c-937a-a55ff7680b94"
+	}
+}
